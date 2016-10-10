@@ -1,0 +1,4 @@
+GetStockPriceBySymbol what is the price of {Symbol}
+GetStockPriceBySymbol what is todays price of {Symbol}
+GetManager who is manager for {Name}
+GetApplicationStatus what is the status of {AppName}
