@@ -2,3 +2,6 @@ GetStockPriceBySymbol what is the price of {Symbol}
 GetStockPriceBySymbol what is todays price of {Symbol}
 GetManager who is manager for {Name}
 GetApplicationStatus what is the status of {AppName}
+GetNextMeetingInfo what is my next meeting
+GetNextMeetingInfo where is my next meeting
+GetNextMeetingInfo tell me about my next meeting
